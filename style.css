@@ -1,0 +1,76 @@
+body{
+background-color: #c9c9c9;
+margin: 0 auto;
+padding: 0;
+}
+.cintillo{
+  background-color: #ea296a;
+}
+
+.cintillo img{
+  margin: 0 auto;
+  display: block;
+}
+
+.menu{
+  background-color: #191919;
+}
+
+.menu img{
+  margin: 0 auto 20px auto;
+  display: block;
+}
+
+
+.header{
+  width: 100%;
+  background-color: #191919;
+}
+
+.header img{
+  width: 100%;
+}
+
+.noticias{
+  width: 1138px;
+  margin: 0 auto;
+}
+
+.tres{
+  background-color: #e1e1e1;
+  width: 100%;
+}
+
+.tres img{
+  margin: 0 auto;
+  display: block;
+}
+
+.banner{
+  margin: 20px auto;
+  display: block;
+  width: 1138px;
+}
+
+.footer{
+  background-color: #570b63;
+  margin: 20px auto;
+  display: block;
+  width: 100%;
+  border-top: solid 15px #ea296a;
+
+}
+
+.footer img{
+  margin: 0 auto;
+  display: block;
+}
+
+.suscribir{
+  width: 100%;
+  margin: 20px 0;
+}
+
+.suscribir img{
+  width: 100%;
+}
